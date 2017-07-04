@@ -1,0 +1,19 @@
+<div class="controller">
+	<div class="row">
+		<div  ng-repeat="allproject in articles | filter:search">
+		<div class="col-md-12 allproject ">
+			<a class="col-md-6 col-sm-12 col-xs-12">
+				<img class="allproject-img img-responsive" ui-sref="all{{allproject.id}}" src="{{allproject.img}}" alt="">
+			</a>
+			<h3 class="col-md-6 col-sm-12 col-xs-12 allproject-title">{{allproject.label}}</h3>
+
+			<a class=" all-author" href="{{allproject.author[0].resume}}">{{allproject.author[0].name}}</a>
+			<a class=" all-author" href="{{allproject.author[1].resume}}">{{allproject.author[1].name}}</a>
+			<a class=" all-author" href="{{allproject.author[2].resume}}">{{allproject.author[2].name}}</a>
+
+			<p class="col-md-6 col-sm-12 col-xs-12 allproject-description">{{allproject.description}}</p>
+		</div>
+	</div>
+	</div>
+</div>		
+	

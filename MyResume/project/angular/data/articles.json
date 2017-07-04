@@ -1,0 +1,199 @@
+{
+    "articles": [
+        {
+        "id": 1,
+        "author": [{
+            "name": "付滔",
+            "resume": "project/futao/index.html"
+        }, {
+            "name": "钟顺涛",
+            "resume": "project/zhongshuntao/index.html"
+        },{
+            "name": "罗定强",
+            "resume": "project/luodingqiang/index.html"
+        }],
+        "branch": "大前端",
+        "class": 1,
+        "itemName": "Web",
+        "label": "Web前端网页",
+        "description": "Web前端网页是我们小组一起编写的一个与Web前端有关的邦飞官网页面。",
+        "url": "bfweb/index.html",
+        "excellent": true,
+        "exImg": "build/images/excellent/zhongshuntao/web-l.jpg",
+        "img": "build/images/all/zhongshuntao/web-s.jpg"
+    },{
+        "id": 2,
+        "author": [{
+            "name": "付滔",
+            "resume": "project/futao/index.html"
+        }, {
+            "name": "钟顺涛",
+            "resume": "project/zhongshuntao/index.html"
+        },{
+            "name": "罗定强",
+            "resume": "project/luodingqiang/index.html"
+        }],
+        "branch": "大前端",
+        "class": 1,
+        "itemName": "angular js",
+        "label": "项目展示网页",
+        "description": "运用angular js编写的一个用来展示所有项目的网页。",
+        "url": "index.html",
+        "excellent": true,
+        "exImg": "build/images/excellent/allproject-l.jpg",
+        "img": "build/images/all/allproject-s.jpg"
+    },
+    {
+        "id": 3,
+        "author": [{
+            "name": "钟顺涛",
+            "resume": "project/zhongshuntao/index.html"
+        }],
+        "branch": "大前端",
+        "class": 1,
+        "itemName": "JD",
+        "label": "京东",
+        "description": "模仿京东网页制作的一个简单的静态页面。",
+        "url": "projects/zhongshuntao/JD/index.html",
+        "excellent": false,
+        "exImg": "build/images/excellent/zhongshuntao/JD-l.jpg",
+        "img": "build/images/all/zhongshuntao/JD-s.jpg"
+
+    },
+    {
+        "id": 4,
+        "author": [{
+            "name": "钟顺涛",
+            "resume": "project/zhongshuntao/index.html"
+        }],
+        "branch": "大前端",
+        "class": 1,
+        "itemName": "faychou",
+        "label": "飞舟博客",
+        "description": "模仿飞舟博客制作的一个个人博客页面，主要实现响应式功能。",
+        "url": "projects/faybk/index.html",
+        "excellent": false,
+        "exImg": "build/images/excellent/zhongshuntao/fay-blog-l.jpg",
+        "img": "build/images/all/zhongshuntao/fay-blog-s.jpg"
+
+    },
+    {
+        "id": 5,
+        "author": [{
+            "name": "钟顺涛",
+            "resume": "project/zhongshuntao/index.html"
+        }],
+        "branch": "大前端",
+        "class": 1,
+        "itemName": "resume",
+        "label": "个人简历",
+        "description": "个人简历是关于我自己的一些个人信息的页面，请点击进入。",
+        "url": "projects/zhongshuntao/index.html",
+        "excellent": true,
+        "exImg": "build/images/excellent/zhongshuntao/resume-l.jpg",
+        "img": "build/images/all/zhongshuntao/resume-s.jpg"
+
+    },
+    {
+        "id": 6,
+        "author": [{
+            "name": "付滔",
+            "resume": "project/futao/index.html"
+        }],
+        "branch": "大前端",
+        "class": 1,
+        "itemName": "JD",
+        "label": "京东",
+        "description": "京东网页是我们的一个模拟任务，这是京东官网页面的简单模仿。",
+        "url": "projects/futao/jingdong/index.html",
+        "excellent": false,
+        "exImg": "build/images/excellent/futao/jingdong-l.jpg",
+        "img": "build/images/all/futao/jingdong-s.jpg"
+
+    },
+    {
+        "id": 7,
+        "author": [{
+            "name": "付滔",
+            "resume": "project/futao/index.html"
+        }],
+        "branch": "大前端",
+        "class": 1,
+        "itemName": "faychou blog",
+        "label": "飞舟博客",
+        "description": "fay-blog是仿照飞舟博客编写的一个大致相同博客页面。",
+        "url": "projects/futao/fay-blog/index.html",
+        "excellent": false,
+        "exImg": "build/images/excellent/futao/fay-blog-l.jpg",
+        "img": "build/images/all/futao/fay-blog-s.jpg"
+
+    },
+    {
+        "id": 8,
+        "author": [{
+            "name": "付滔",
+            "resume": "project/futao/index.html"
+        }],
+        "branch": "大前端",
+        "class": 1,
+        "itemName": "jingdong",
+        "label": "个人简历",
+        "description": "付滔的个人简历，里面有我的个人相关信息。",
+        "url": "projects/futao/resume/index.html",
+        "excellent": true,
+        "exImg": "build/images/excellent/futao/resume-l.jpg",
+        "img": "build/images/all/futao/resume-s.jpg"
+
+    },
+    {
+        "id": 9,
+        "author": [{
+            "name": "罗定强",
+            "resume": "project/luodingqiang/index.html"
+        }],
+        "branch": "大前端",
+        "class": 1,
+        "itemName": "JD",
+        "label": "京东",
+        "description": "京东是我制作的第一个网页，主要为了熟悉各种标签。",
+        "url": "projects/luodingqiang/jd1/index.html",
+        "excellent": false,
+        "exImg": "build/images/excellent/luodingqiang/jd-l.jpg",
+        "img": "build/images/all/luodingqiang/jd-s.jpg"
+
+    },
+    {
+        "id": 10,
+        "author": [{
+            "name": "罗定强",
+            "resume": "project/luodingqiang/index.html"
+        }],
+        "branch": "大前端",
+        "class": 1,
+        "itemName": "faychou",
+        "label": "飞舟博客",
+        "description": "模仿飞舟博客实现的一个简单的响应式页面。",
+        "url": "projects/luodingqiang/feizhou/index.html",
+        "excellent": false,
+        "exImg": "build/images/excellent/luodingqiang/feizhou-l.jpg",
+        "img": "build/images/all/luodingqiang/feizhou-s.jpg"
+
+    },
+    {
+        "id": 11,
+        "author": [{
+            "name": "罗定强",
+            "resume": "project/luodingqiang/index.html"
+        }],
+        "branch": "大前端",
+        "class": 1,
+        "itemName": "resume",
+        "label": "个人简历",
+        "description": "个人简历是关于我自己的一些个人介绍的一个页面，可进入查看。",
+        "url": "projects/luodingqiang/index.html",
+        "excellent": true,
+        "exImg": "build/images/excellent/luodingqiang/rondin-l.jpg",
+        "img": "build/images/all/luodingqiang/rondin-s.jpg"
+
+        }]
+    }

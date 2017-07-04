@@ -1,0 +1,138 @@
+html,body,div,nav,ul,li,a,span {
+	margin:0;
+	padding: 0;
+}
+
+ul li {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+.navbar {
+	background-color: rgba(5,5,5,0.8);
+	margin-bottom: 0;
+}
+
+.logo {
+	padding: 10px;
+}
+
+.collapse {
+	width: 100%;
+}
+
+.collapse h3 {
+	width: 50%;
+}
+/*导航栏房子*/
+.collapse h3 span {
+	color: #fff;
+	margin-left: 20px;
+}
+
+.collapse h3 a {
+	margin-left: 10px;
+}
+
+.collapse input {
+	width: 100%;
+	margin-top: 20px;
+	
+}
+
+.show-page {
+	min-height: 717px;
+	background: linear-gradient(#70e1f5, #ffd194);
+}
+
+/*导航栏项目*/
+.project-title {
+	color: #fff;
+}
+
+.project-title:hover {
+	color: #799FF8;
+}
+/*优秀/全部的切换*/
+.works a{
+	font-size: 20px;
+	font-weight: 500;
+	color: #2EA4E4;
+}
+
+.good-works {
+	text-align: right;
+}
+
+.all-works {
+	text-align: left;
+}
+
+.good-all {
+	height: 23px;
+}
+/*全部作品*/
+.all-works a {
+	color: #fff;
+	font-size: 30px;
+	font-weight: 600;
+}
+
+.allproject {
+	margin-top: 20px;
+	text-align: center;
+}
+
+.allproject a {
+	color: #fff;
+	font-size: 16px;
+}
+.allproject-title {
+	text-align: center;
+}
+
+.allproject-img {
+	border: 5px solid #D3FCF5;
+	padding:5px;
+}
+
+.allproject-img:hover {
+	box-shadow: 5px 5px 2px #002222;
+}
+
+.all-author,.allproject-content {
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+/*优秀作品*/
+.good-works a {
+	color: #1D14F5;
+	font-size: 30px;
+	font-weight: 600;
+}
+
+.good-title {
+	text-align: center;
+	color: #528EBC;
+}
+
+.good-title ~ img {
+	margin-bottom: 10px;
+}
+.good-title ~ p{
+	font-size: 14px;
+	color:#5D7A91;
+}
+
+.good-img {
+	border: 5px solid #D3FCF5;
+	padding:5px;
+}
+
+.good-img:hover {
+	box-shadow: 5px 5px 2px #002222;
+}

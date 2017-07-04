@@ -1,0 +1,66 @@
+html,body,div,header,section,h1,h3,h4,h5,p,a,form,input,textarea,button,img,ul,li,nav,span {
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	text-decoration: none;
+}
+
+ul,
+li {
+	list-style: none;
+}
+
+
+/*导航栏的最大高度*/
+.nav-height {
+	max-height: 260px !important;
+}
+
+/*我的技能*/
+.myskill h3 {
+	margin-bottom:20px !important;
+}
+
+.myskill p {
+	font-size: 18px;
+	font-weight: 600;
+	margin-bottom: 10px;
+}
+
+.html {
+	width: 90%;
+}
+
+.css {
+	width: 85%;
+}
+
+.js {
+	width: 78%;
+}
+
+.angularjs {
+	width: 74%;
+}
+
+/*联系我*/
+/*输入框所占高度*/
+.group-form {
+	height: 70px;
+}
+
+.contact-submit {
+	color: #fff;
+	font-size: 16px;
+	text-align: center;
+	background-color: #111;
+	display: block;
+	border-radius: 5px; 
+	margin-top: 20px;
+}
+
+.contact-submit:hover {
+	color: #fff;
+}

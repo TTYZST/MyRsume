@@ -1,0 +1,213 @@
+/*响应式*/
+@media only screen and (max-width: 1199px) and (min-width: 992px) {
+	.team .team-item .details h4{
+		font-size: 18px;
+	}
+	.team .team-item .overlay{
+		padding: 20px 15px;
+	}
+	.team .team-item .overlay span{
+		margin-bottom: 10px;
+	}
+}
+@media only screen and (max-width: 1199px) {
+	header .main-menu ul li a{
+		padding: 35px 10px;
+	}
+	.portfolio .portfolio_item {
+	    width: 32.3%;
+	}
+}
+@media only screen and (max-width: 991px) and (min-width: 768px) {
+	.navbar-header{
+		width: 100%;
+    	text-align: center;
+	}
+	header .main-menu .navbar-brand{
+		display: inline-block;
+    	float: none;
+	}
+	header .main-menu ul li a{
+		padding: 35px 8px;
+	}
+
+	.header-single{
+	    margin-top: 150px;
+	}
+}
+@media only screen and (max-width: 991px) {
+	.portfolio .portfolio_item {
+	    width: 31.9%;
+	}
+	.contact-us .contact-submit{
+		margin-bottom: 50px;
+	}
+	.team .team-item{
+		margin-bottom: 30px;
+	}
+}
+@media only screen and (max-width: 767px) {
+	header .main-menu .navbar-header{
+		min-height: 90px;
+	}
+	header .main-menu .navbar-toggle{
+		margin-top: 26px;
+	}
+	header .main-menu .navbar-toggle .icon-bar{
+		background-color: #fff;
+	}
+	header .main-menu .navbar-collapse{
+		max-height: 220px;
+	}
+	header .main-menu .navbar-brand {
+	    padding: 30px 15px;
+	}
+	header .main-menu ul li a{
+		padding: 10px 15px;
+	}
+	header .main-menu .menu-cart > span{
+		margin: 10px 15px;
+	}
+	header .main-menu .menu-button{
+		margin: 10px 15px;
+	}
+	.portfolio .portfolio_item {
+	    width: 31.6%;
+	}
+	.single_post .post_content{
+		padding: 20px;
+	}
+	.single_post .post_content h3{
+		font-size: 24px;
+	}
+	.post_comment ul li ul{
+		margin-left: 60px;
+	}
+	.post_comment .comment_input:first-child, .post_comment .comment_input:nth-child(2){
+		width: 100%;
+		float: initial;
+	}
+@media only screen and (max-width: 1199px) {
+	header .main-menu ul li a{
+		padding: 35px 10px;
+	}
+	.portfolio .portfolio_item {
+	    width: 32.3%;
+	}
+}
+@media only screen and (max-width: 991px) and (min-width: 768px) {
+	.navbar-header{
+		width: 100%;
+    	text-align: center;
+	}
+	header .main-menu .navbar-brand{
+		display: inline-block;
+    	float: none;
+	}
+	header .main-menu ul li a{
+		padding: 35px 8px;
+	}
+
+	.header-single{
+	    margin-top: 150px;
+	}
+}
+@media only screen and (max-width: 991px) {
+	.portfolio .portfolio_item {
+	    width: 31.9%;
+	}
+	.contact-us .contact-submit{
+		margin-bottom: 50px;
+	}
+	.team .team-item{
+		margin-bottom: 30px;
+	}
+}
+@media only screen and (max-width: 767px) {
+	header .main-menu .navbar-header{
+		min-height: 90px;
+	}
+	header .main-menu .navbar-toggle{
+		margin-top: 26px;
+	}
+	header .main-menu .navbar-toggle .icon-bar{
+		background-color: #fff;
+	}
+	header .main-menu .navbar-collapse{
+		max-height: 220px;
+	}
+	header .main-menu .navbar-brand {
+	    padding: 30px 15px;
+	}
+	header .main-menu ul li a{
+		padding: 10px 15px;
+	}
+	header .main-menu .menu-cart > span{
+		margin: 10px 15px;
+	}
+	header .main-menu .menu-button{
+		margin: 10px 15px;
+	}
+	.portfolio .portfolio_item {
+	    width: 31.6%;
+	}
+	.single_post .post_content{
+		padding: 20px;
+	}
+	.single_post .post_content h3{
+		font-size: 24px;
+	}
+	.post_comment ul li ul{
+		margin-left: 60px;
+	}
+	.post_comment .comment_input:first-child, .post_comment .comment_input:nth-child(2){
+		width: 100%;
+		float: initial;
+	}
+	footer p{
+		margin-bottom: 20px;
+	}
+	footer ul{
+		float: initial;
+	}
+}
+@media only screen and (max-width: 680px) {
+	.portfolio .portfolio_item {
+	    width: 48.4%;
+	}
+	.single_post .post_content .post_tags{
+		float: initial;
+		margin-bottom: 20px;
+	}
+	.single_post .post_content .post_share{
+		float: initial;
+	}
+}
+@media only screen and (max-width: 480px) {
+	.portfolio .portfolio_item {
+	    width: 100%;
+	}
+	.blog .blog-item .content{
+		padding: 15px;
+	}
+	.single_post .post_content blockquote{
+		padding: 10px;
+	}
+	.single_post .post_content blockquote:after{
+		display: none;
+	}
+	.single_post .post_content{
+		padding: 10px;
+	}
+	.single_post .post_content h3{
+		font-size: 17px;
+	}
+	.post_comment ul li ul{
+		margin-left: 30px;
+	}
+	.post_comment .profile-image{
+		height: 60px;
+		width: 60px;
+		margin-right: 10px;
+	}
+}
